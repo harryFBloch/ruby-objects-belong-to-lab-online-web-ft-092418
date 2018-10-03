@@ -3,7 +3,7 @@ class Song
   
   
   def initialize()
-    self.title = title
+    self.title = ""
   end 
   
 end
